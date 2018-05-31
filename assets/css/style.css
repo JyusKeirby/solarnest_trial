@@ -7,6 +7,11 @@
  * Copyright 2013. MIT licensed.
  */
 
+ /*HTML5*/
+ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+   display: block;
+ }
+
 @import url(https://fonts.googleapis.com/css?family=Roboto:300,400,700);
 body, html {
   padding: 0
