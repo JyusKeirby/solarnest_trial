@@ -10,7 +10,7 @@
 @charset "UTF-8";
 
  /*HTML5*/
- address, article, aside, canvas, content, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+ address, article, aside, canvas, content, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, wbr, mark, progress, time, bdi {
    display: block !important;
  }
 
